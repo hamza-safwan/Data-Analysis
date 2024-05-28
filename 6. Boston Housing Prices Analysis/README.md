@@ -1,0 +1,2 @@
+#  Boston House Pricing Analysis
+This project conducts an in-depth analysis of housing prices in Boston using statistical and machine learning approaches. It aims to predict house prices based on various features such as crime rate, accessibility to highways, walkability to schools and commercial markets, property tax rates, etc. The analysis provides insights into the factors influencing housing prices in the Boston area.
