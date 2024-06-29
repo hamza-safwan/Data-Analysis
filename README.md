@@ -1,9 +1,9 @@
 # Data Analysis
 This repository contains Data Analysis projects on which I have worked and am working. I hvae done various term and portfolio projects consisting of datasets from different sectors i.e Business & Retail, Finance, Healthcare, Power & Energy etc.
 
-- **1. Data analytics at B2B Service Provider**
-- **2. Data Analytics Case study by Quantium**
-- **3. PowerCo Case Study**
+**1. Data analytics at B2B Service Provider**
+**2. Data Analytics Case study by Quantium**
+**3. PowerCo Case Study**
 - **4. Telecom Customer Churn Study**
 - **5. Falcon Landing Prediction**
 - **6. Boston Housing Prices Analysis**
