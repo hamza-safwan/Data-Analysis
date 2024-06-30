@@ -3,8 +3,7 @@
 
 ## Project Overview and Task Insights 
 This project involves analysing chip purchases at supermarkets.
-The aim of this project was to evaluate different customers' purchasing behaviours and the performance of trial stores with a new layout to provide insights of customer preferences to the client 
-and a recommendation of whether the trial has been successful. 
+The aim of this project is to evaluate different customers' purchasing behaviours and the performance of trial stores with a new layout to provide insights of customer preferences to the client and a recommendation of whether the trial has been successful or not. 
 
 ### Task 1: Data Preparation and Customer Analytics
 Files: QVI_task1.ipynb, reads QVI_purchase_behaviour.csv and QVI_transaction_data.xlsx
