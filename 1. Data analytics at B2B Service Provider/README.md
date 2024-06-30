@@ -1,7 +1,7 @@
 # Data analytics at B2B Service Provider: Catalyst for Change
 The project is about case study of a Call Centre - a B2B tech serive provider. It features a series of Power BI dashboards focusing on Call Centre Trends, Customer Retention, and Diversity & Inclusion. Each dashboard provides actionable insights into different facets of business operations and strategic planning, aiding Call Centre and its clients in enhancing operational efficiency, fostering customer loyalty, and promoting a more inclusive workplace. 
 
-Through meticulous data analysis and visualization, this project aims to support informed decision-making and highlight areas for improvement and innovation.
+Through meticulous data analysis and visualizations, this project aims to support informed decision-making and highlight areas for improvement and innovation.
 
 ## Dashboards and Visualizations
 
