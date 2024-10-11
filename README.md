@@ -18,4 +18,4 @@ The repository contains Data Analytics projects on which I have worked and am wo
 ## Summary
 - Analyzed diverse datasets time series, cross-sectional, and others from various industries Business & Retail, Finance, Healthcare, Power & Energy to extract valuable insights, demonstrating adaptability and expertise in data manipulation.
 - Performed comprehensive data preparation cleaning, handling, pre-processing to ensure data quality and integrity, and applied statistical and mathematical techniques to uncover patterns, trends, and correlations, resulting in actionable recommendations.
-- Developed informative reports and visualizations to effectively communicate findings and insights to stakeholders, to distill complex data into meaningful and impactful stories, driving business growth and informed decision-making.
+- Developed informative reports and visualizations to effectively communicate findings and insights to stakeholders, to distill complex data into meaningful and impactful stories, driving business growth.
